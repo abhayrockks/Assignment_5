@@ -1,0 +1,45 @@
+
+        *,
+        *:before,
+        *:after {
+            box-sizing: border-box;
+        }
+
+        .box {
+            width: 200px;
+            height: 200px;
+            border: solid red;
+        }
+
+        .box2 {
+            width: 200px;
+            height: 200px;
+            border: solid purple;
+            position: absolute;
+            top: 100px;
+            left: 100px;
+        }
+
+        .box3 {
+            width: 200px;
+            height: 200px;
+            border: solid orange;
+        }
+
+        .box4 {
+            width: 200px;
+            height: 200px;
+            border: solid rgb(3, 124, 33);
+            position: relative;
+            bottom: 200px;
+            left: 199px;
+        }
+
+        .box5 {
+            width: 200px;
+            height: 200px;
+            border: solid yellow;
+            position: absolute;
+            top: 0px;
+            left: 199px;
+        }
