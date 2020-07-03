@@ -1,0 +1,32 @@
+
+.row {
+            height: 650px;
+            background-color: #d7e7f4;
+        }
+
+.center {
+            width: 954px;
+            height: 650px;
+            margin: auto;
+            background-color: white;
+        }
+
+.button {
+            background-color: #007BAF;
+            color: white;
+        }
+        
+.floated {
+            float: right;
+            margin-right: 22px;
+        }
+
+hr {
+            width: 100%;
+            margin-top: 10em;
+            border: 2px solid black;
+        }
+
+input {
+            vertical-align: bottom;
+        }
